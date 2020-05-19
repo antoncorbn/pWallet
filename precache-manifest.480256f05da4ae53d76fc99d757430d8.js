@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/icon_curr_won.4392f303.png"
   },
   {
-    "revision": "10f709264a7ed4dd2a7d",
-    "url": "/static/js/app.5d35e5de.chunk.js"
+    "revision": "f7fbfb71c16e2082ef46",
+    "url": "/static/js/app.f18a0c41.chunk.js"
   },
   {
     "revision": "26d2fdf81898ee93d96e6e8ac5311cc1",
@@ -300,8 +300,8 @@ self.__precacheManifest = [
     "url": "/serve.json"
   },
   {
-    "revision": "3a2ba31570920eeb9b1d217cabe58315",
-    "url": "/./fonts/AntDesign.ttf"
+    "revision": "48c7ed4e7da9792af288a60d7242d615",
+    "url": "/expo-service-worker.js"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -312,7 +312,7 @@ self.__precacheManifest = [
     "url": "/manifest.json"
   },
   {
-    "revision": "d9ce0fedc05eb45de26520f221f50f9d",
+    "revision": "fe56057377ab700c7e618b712ef27c5f",
     "url": "/index.html"
   },
   {
@@ -334,10 +334,6 @@ self.__precacheManifest = [
   {
     "revision": "24a5b3973e5e5f6728dd7db78188e52d",
     "url": "/favicon-16.png"
-  },
-  {
-    "revision": "48c7ed4e7da9792af288a60d7242d615",
-    "url": "/expo-service-worker.js"
   },
   {
     "revision": "e20945d7c929279ef7a6f1db184a4470",
@@ -362,5 +358,9 @@ self.__precacheManifest = [
   {
     "revision": "744ce60078c17d86006dd0edabcd59a7",
     "url": "/./fonts/Entypo.ttf"
+  },
+  {
+    "revision": "3a2ba31570920eeb9b1d217cabe58315",
+    "url": "/./fonts/AntDesign.ttf"
   }
 ];
